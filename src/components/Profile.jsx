@@ -72,7 +72,7 @@ const Profile = () => {
 
                     <div className=" grid grid-rows-[1fr_4fr]  md:grid-rows-[1fr_4fr] lg:grid-rows-[2fr_4fr] gap-10 ">
 
-                        <div className={`relative bg-[url('../assets/bg-tree-3.jpg')] shadow bg-opacity-50 bg-cover bg-center w-full h-full grid place-content-center gap-3 rounded-2xl overflow-hidden`}>
+                        <div className={`relative bg-[url('./assets/bg-tree-1.jpg')] shadow bg-opacity-50 bg-cover bg-center w-full h-full grid place-content-center gap-3 rounded-2xl overflow-hidden`}>
 
                             <div className="absolute z-10 grid place-content-center w-full h-full">
                                 <div className="flex justify-center">
